@@ -5,6 +5,6 @@ package com.swikriti.practise.uploadimage;
  */
 
 public class Constants {
-    public static final String UPLOAD_URL = "http://192.168.1.156/androiduploadimage/upload.php";
+    public static final String UPLOAD_URL = "http://192.168.1.156/androiduploadimage/addImg.php";
     public static final String IMAGES_URL = "http://192.168.1.156/androiduploadimage/getImages.php";
 }
